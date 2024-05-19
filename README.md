@@ -120,7 +120,7 @@
     <!-- First Container -->
     <div id="kimdir" class="container-fluid bg-1 text-center">
         <h3 class="margin">Merhaba, Ben Görkem!</h3>
-        <img src="profil2.PNG" class="img" alt="..." >
+        <img src="Yeni bilgisayar/profil2.PNG" class="img" alt="..." >
         <h3>Yazılım Geliştiririm</h3>
     </div>
 
